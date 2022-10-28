@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Archivos de origen">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Archivos de encabezado">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Archivos de recursos">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Archivos de origen\includes">
+      <UniqueIdentifier>{208dec81-26a2-45f5-9125-f71205b18ac1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archivos de encabezado\Atributes">
+      <UniqueIdentifier>{8a3897c2-3ce0-483b-b30e-33df85840fb2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archivos de origen\Controladores">
+      <UniqueIdentifier>{98bc4c7b-ef14-4aec-bfb4-cf1f90ef28c0}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>Archivos de origen</Filter>
+    </ClCompile>
+    <ClCompile Include="include.cpp">
+      <Filter>Archivos de origen\includes</Filter>
+    </ClCompile>
+    <ClCompile Include="includeTotal.cpp">
+      <Filter>Archivos de origen\includes</Filter>
+    </ClCompile>
+    <ClCompile Include="Health.cpp">
+      <Filter>Archivos de origen\Controladores</Filter>
+    </ClCompile>
+    <ClCompile Include="Stamina.cpp">
+      <Filter>Archivos de origen\Controladores</Filter>
+    </ClCompile>
+    <ClCompile Include="Entity.cpp">
+      <Filter>Archivos de origen\Controladores</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Health.h">
+      <Filter>Archivos de encabezado\Atributes</Filter>
+    </ClInclude>
+    <ClInclude Include="Stamina.h">
+      <Filter>Archivos de encabezado\Atributes</Filter>
+    </ClInclude>
+    <ClInclude Include="Entity.h">
+      <Filter>Archivos de encabezado\Atributes</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
