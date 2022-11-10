@@ -42,6 +42,15 @@
     <ClCompile Include="Entity.cpp">
       <Filter>Archivos de origen\Controladores</Filter>
     </ClCompile>
+    <ClCompile Include="EntityCharacter.cpp">
+      <Filter>Archivos de origen\Controladores</Filter>
+    </ClCompile>
+    <ClCompile Include="Sword.cpp">
+      <Filter>Archivos de origen</Filter>
+    </ClCompile>
+    <ClCompile Include="Food.cpp">
+      <Filter>Archivos de origen</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Health.h">
@@ -52,6 +61,15 @@
     </ClInclude>
     <ClInclude Include="Entity.h">
       <Filter>Archivos de encabezado\Atributes</Filter>
+    </ClInclude>
+    <ClInclude Include="EntityCharacter.h">
+      <Filter>Archivos de encabezado\Atributes</Filter>
+    </ClInclude>
+    <ClInclude Include="Sword.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="Food.h">
+      <Filter>Archivos de encabezado</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>

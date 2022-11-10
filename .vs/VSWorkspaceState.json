@@ -2,9 +2,8 @@
   "ExpandedNodes": [
     "",
     "\\PruebaClases",
-    "\\PruebaClases\\Class\\ClassBody",
-    "\\PruebaClases\\Class\\ClassHead"
+    "\\PruebaClases\\Includes"
   ],
-  "SelectedNode": "\\PruebaClases.sln",
+  "SelectedNode": "\\PruebaClases\\Includes\\includeTotal.cpp",
   "PreviewInSolutionExplorer": false
 }

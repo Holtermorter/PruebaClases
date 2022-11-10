@@ -1,6 +1,14 @@
 ﻿  Entity.cpp
+c1xx : fatal  error C1083: No se puede abrir el archivo origen: 'Entity.cpp': No such file or directory
+  Health.cpp
+c1xx : fatal  error C1083: No se puede abrir el archivo origen: 'Health.cpp': No such file or directory
   include.cpp
+c1xx : fatal  error C1083: No se puede abrir el archivo origen: 'include.cpp': No such file or directory
+  includeTotal.cpp
+c1xx : fatal  error C1083: No se puede abrir el archivo origen: 'includeTotal.cpp': No such file or directory
   main.cpp
+C:\Users\User\source\repos\Holtermorter\PruebaClases\PruebaClases\main.cpp(1,10): fatal  error C1083: No se puede abrir el archivo incluir: 'includeTotal.cpp': No such file or directory
+  Stamina.cpp
+c1xx : fatal  error C1083: No se puede abrir el archivo origen: 'Stamina.cpp': No such file or directory
+  Sword.cpp
   Generando código...
-C:\Users\User\Desktop\codigos\PruebaClases\PruebaClases\Entity.cpp(51): warning C4715: 'Entity::counter': no todas las rutas de acceso de control devuelven un valor
-  PruebaClases.vcxproj -> C:\Users\User\Desktop\codigos\PruebaClases\x64\Debug\PruebaClases.exe
