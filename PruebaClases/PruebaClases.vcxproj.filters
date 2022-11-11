@@ -13,9 +13,6 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
-    <Filter Include="Archivos de origen\includes">
-      <UniqueIdentifier>{208dec81-26a2-45f5-9125-f71205b18ac1}</UniqueIdentifier>
-    </Filter>
     <Filter Include="Archivos de encabezado\Atributes">
       <UniqueIdentifier>{8a3897c2-3ce0-483b-b30e-33df85840fb2}</UniqueIdentifier>
     </Filter>
@@ -26,12 +23,6 @@
   <ItemGroup>
     <ClCompile Include="main.cpp">
       <Filter>Archivos de origen</Filter>
-    </ClCompile>
-    <ClCompile Include="include.cpp">
-      <Filter>Archivos de origen\includes</Filter>
-    </ClCompile>
-    <ClCompile Include="includeTotal.cpp">
-      <Filter>Archivos de origen\includes</Filter>
     </ClCompile>
     <ClCompile Include="Health.cpp">
       <Filter>Archivos de origen\Controladores</Filter>
@@ -45,11 +36,17 @@
     <ClCompile Include="EntityCharacter.cpp">
       <Filter>Archivos de origen\Controladores</Filter>
     </ClCompile>
-    <ClCompile Include="Sword.cpp">
+    <ClCompile Include="includeall.cpp">
       <Filter>Archivos de origen</Filter>
     </ClCompile>
     <ClCompile Include="Food.cpp">
-      <Filter>Archivos de origen</Filter>
+      <Filter>Archivos de origen\Controladores</Filter>
+    </ClCompile>
+    <ClCompile Include="Sword.cpp">
+      <Filter>Archivos de origen\Controladores</Filter>
+    </ClCompile>
+    <ClCompile Include="Inventory.cpp">
+      <Filter>Archivos de origen\Controladores</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
@@ -65,11 +62,14 @@
     <ClInclude Include="EntityCharacter.h">
       <Filter>Archivos de encabezado\Atributes</Filter>
     </ClInclude>
-    <ClInclude Include="Sword.h">
-      <Filter>Archivos de encabezado</Filter>
-    </ClInclude>
     <ClInclude Include="Food.h">
-      <Filter>Archivos de encabezado</Filter>
+      <Filter>Archivos de encabezado\Atributes</Filter>
+    </ClInclude>
+    <ClInclude Include="Sword.h">
+      <Filter>Archivos de encabezado\Atributes</Filter>
+    </ClInclude>
+    <ClInclude Include="Inventory.h">
+      <Filter>Archivos de encabezado\Atributes</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>

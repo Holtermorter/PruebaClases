@@ -131,8 +131,8 @@
     <ClCompile Include="EntityCharacter.cpp" />
     <ClCompile Include="Food.cpp" />
     <ClCompile Include="Health.cpp" />
-    <ClCompile Include="include.cpp" />
-    <ClCompile Include="includeTotal.cpp" />
+    <ClCompile Include="includeall.cpp" />
+    <ClCompile Include="Inventory.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="Stamina.cpp" />
     <ClCompile Include="Sword.cpp" />
@@ -142,6 +142,7 @@
     <ClInclude Include="EntityCharacter.h" />
     <ClInclude Include="Food.h" />
     <ClInclude Include="Health.h" />
+    <ClInclude Include="Inventory.h" />
     <ClInclude Include="Stamina.h" />
     <ClInclude Include="Sword.h" />
   </ItemGroup>

@@ -1,14 +1,140 @@
 ﻿  Entity.cpp
-c1xx : fatal  error C1083: No se puede abrir el archivo origen: 'Entity.cpp': No such file or directory
+C:\Users\User\source\repos\Holtermorter\PruebaClases\PruebaClases\Entity.h(10,14): error C2065: 'Swords': identificador no declarado
+C:\Users\User\source\repos\Holtermorter\PruebaClases\PruebaClases\Entity.h(10,7): error C2923: 'std::vector': 'Swords' no es un argumento de tipo plantilla válido para el parámetro '_Ty'
+C:\Users\User\source\repos\Holtermorter\PruebaClases\PruebaClases\Entity.h(10): message : vea la declaración de 'Swords'
+C:\Users\User\source\repos\Holtermorter\PruebaClases\PruebaClases\Entity.h(10,7): error C2976: 'std::vector': no hay suficientes argumentos de plantilla
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\vector(496): message : vea la declaración de 'std::vector'
+C:\Users\User\source\repos\Holtermorter\PruebaClases\PruebaClases\Entity.h(11,14): error C2065: 'Food': identificador no declarado
+C:\Users\User\source\repos\Holtermorter\PruebaClases\PruebaClases\Entity.h(11,7): error C2923: 'std::vector': 'Food' no es un argumento de tipo plantilla válido para el parámetro '_Ty'
+C:\Users\User\source\repos\Holtermorter\PruebaClases\PruebaClases\Entity.h(11): message : vea la declaración de 'Food'
+C:\Users\User\source\repos\Holtermorter\PruebaClases\PruebaClases\Entity.h(11,7): error C2976: 'std::vector': no hay suficientes argumentos de plantilla
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\vector(496): message : vea la declaración de 'std::vector'
+C:\Users\User\source\repos\Holtermorter\PruebaClases\PruebaClases\Entity.h(12,14): error C2065: 'Mats': identificador no declarado
+C:\Users\User\source\repos\Holtermorter\PruebaClases\PruebaClases\Entity.h(12,7): error C2923: 'std::vector': 'Mats' no es un argumento de tipo plantilla válido para el parámetro '_Ty'
+C:\Users\User\source\repos\Holtermorter\PruebaClases\PruebaClases\Entity.h(12): message : vea la declaración de 'Mats'
+C:\Users\User\source\repos\Holtermorter\PruebaClases\PruebaClases\Entity.h(12,7): error C2976: 'std::vector': no hay suficientes argumentos de plantilla
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\vector(496): message : vea la declaración de 'std::vector'
+C:\Users\User\source\repos\Holtermorter\PruebaClases\PruebaClases\Entity.h(13,14): error C2065: 'Armor': identificador no declarado
+C:\Users\User\source\repos\Holtermorter\PruebaClases\PruebaClases\Entity.h(13,7): error C2923: 'std::vector': 'Armor' no es un argumento de tipo plantilla válido para el parámetro '_Ty'
+C:\Users\User\source\repos\Holtermorter\PruebaClases\PruebaClases\Entity.h(13): message : vea la declaración de 'Armor'
+C:\Users\User\source\repos\Holtermorter\PruebaClases\PruebaClases\Entity.h(13,7): error C2976: 'std::vector': no hay suficientes argumentos de plantilla
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\vector(496): message : vea la declaración de 'std::vector'
+C:\Users\User\source\repos\Holtermorter\PruebaClases\PruebaClases\Entity.h(14,14): error C2065: 'vector': identificador no declarado
+C:\Users\User\source\repos\Holtermorter\PruebaClases\PruebaClases\Entity.h(14,7): error C2923: 'std::vector': 'vector' no es un argumento de tipo plantilla válido para el parámetro '_Ty'
+C:\Users\User\source\repos\Holtermorter\PruebaClases\PruebaClases\Entity.h(14): message : vea la declaración de 'vector'
+C:\Users\User\source\repos\Holtermorter\PruebaClases\PruebaClases\Entity.h(14,7): error C2976: 'std::vector': no hay suficientes argumentos de plantilla
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\vector(496): message : vea la declaración de 'std::vector'
   Health.cpp
-c1xx : fatal  error C1083: No se puede abrir el archivo origen: 'Health.cpp': No such file or directory
-  include.cpp
-c1xx : fatal  error C1083: No se puede abrir el archivo origen: 'include.cpp': No such file or directory
-  includeTotal.cpp
-c1xx : fatal  error C1083: No se puede abrir el archivo origen: 'includeTotal.cpp': No such file or directory
+C:\Users\User\source\repos\Holtermorter\PruebaClases\PruebaClases\Entity.h(9,10): error C3646: 'entityStamina': especificador de invalidación desconocido
+C:\Users\User\source\repos\Holtermorter\PruebaClases\PruebaClases\Entity.h(9,23): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+C:\Users\User\source\repos\Holtermorter\PruebaClases\PruebaClases\Entity.h(10,14): error C2065: 'Swords': identificador no declarado
+C:\Users\User\source\repos\Holtermorter\PruebaClases\PruebaClases\Entity.h(10,7): error C2923: 'std::vector': 'Swords' no es un argumento de tipo plantilla válido para el parámetro '_Ty'
+C:\Users\User\source\repos\Holtermorter\PruebaClases\PruebaClases\Entity.h(10): message : vea la declaración de 'Swords'
+C:\Users\User\source\repos\Holtermorter\PruebaClases\PruebaClases\Entity.h(10,7): error C2976: 'std::vector': no hay suficientes argumentos de plantilla
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\vector(496): message : vea la declaración de 'std::vector'
+C:\Users\User\source\repos\Holtermorter\PruebaClases\PruebaClases\Entity.h(11,14): error C2065: 'Food': identificador no declarado
+C:\Users\User\source\repos\Holtermorter\PruebaClases\PruebaClases\Entity.h(11,7): error C2923: 'std::vector': 'Food' no es un argumento de tipo plantilla válido para el parámetro '_Ty'
+C:\Users\User\source\repos\Holtermorter\PruebaClases\PruebaClases\Entity.h(11): message : vea la declaración de 'Food'
+C:\Users\User\source\repos\Holtermorter\PruebaClases\PruebaClases\Entity.h(11,7): error C2976: 'std::vector': no hay suficientes argumentos de plantilla
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\vector(496): message : vea la declaración de 'std::vector'
+C:\Users\User\source\repos\Holtermorter\PruebaClases\PruebaClases\Entity.h(12,14): error C2065: 'Mats': identificador no declarado
+C:\Users\User\source\repos\Holtermorter\PruebaClases\PruebaClases\Entity.h(12,7): error C2923: 'std::vector': 'Mats' no es un argumento de tipo plantilla válido para el parámetro '_Ty'
+C:\Users\User\source\repos\Holtermorter\PruebaClases\PruebaClases\Entity.h(12): message : vea la declaración de 'Mats'
+C:\Users\User\source\repos\Holtermorter\PruebaClases\PruebaClases\Entity.h(12,7): error C2976: 'std::vector': no hay suficientes argumentos de plantilla
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\vector(496): message : vea la declaración de 'std::vector'
+C:\Users\User\source\repos\Holtermorter\PruebaClases\PruebaClases\Entity.h(13,14): error C2065: 'Armor': identificador no declarado
+C:\Users\User\source\repos\Holtermorter\PruebaClases\PruebaClases\Entity.h(13,7): error C2923: 'std::vector': 'Armor' no es un argumento de tipo plantilla válido para el parámetro '_Ty'
+C:\Users\User\source\repos\Holtermorter\PruebaClases\PruebaClases\Entity.h(13): message : vea la declaración de 'Armor'
+C:\Users\User\source\repos\Holtermorter\PruebaClases\PruebaClases\Entity.h(13,7): error C2976: 'std::vector': no hay suficientes argumentos de plantilla
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\vector(496): message : vea la declaración de 'std::vector'
+C:\Users\User\source\repos\Holtermorter\PruebaClases\PruebaClases\Entity.h(14,14): error C2065: 'vector': identificador no declarado
+C:\Users\User\source\repos\Holtermorter\PruebaClases\PruebaClases\Entity.h(14,7): error C2923: 'std::vector': 'vector' no es un argumento de tipo plantilla válido para el parámetro '_Ty'
+C:\Users\User\source\repos\Holtermorter\PruebaClases\PruebaClases\Entity.h(14): message : vea la declaración de 'vector'
+C:\Users\User\source\repos\Holtermorter\PruebaClases\PruebaClases\Entity.h(14,7): error C2976: 'std::vector': no hay suficientes argumentos de plantilla
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\vector(496): message : vea la declaración de 'std::vector'
+  includeall.cpp
+C:\Users\User\source\repos\Holtermorter\PruebaClases\PruebaClases\Entity.h(9,10): error C3646: 'entityStamina': especificador de invalidación desconocido
+C:\Users\User\source\repos\Holtermorter\PruebaClases\PruebaClases\Entity.h(9,23): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+C:\Users\User\source\repos\Holtermorter\PruebaClases\PruebaClases\Entity.h(10,14): error C2065: 'Swords': identificador no declarado
+C:\Users\User\source\repos\Holtermorter\PruebaClases\PruebaClases\Entity.h(10,7): error C2923: 'std::vector': 'Swords' no es un argumento de tipo plantilla válido para el parámetro '_Ty'
+C:\Users\User\source\repos\Holtermorter\PruebaClases\PruebaClases\Entity.h(10): message : vea la declaración de 'Swords'
+C:\Users\User\source\repos\Holtermorter\PruebaClases\PruebaClases\Entity.h(10,7): error C2976: 'std::vector': no hay suficientes argumentos de plantilla
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\vector(496): message : vea la declaración de 'std::vector'
+C:\Users\User\source\repos\Holtermorter\PruebaClases\PruebaClases\Entity.h(11,14): error C2065: 'Food': identificador no declarado
+C:\Users\User\source\repos\Holtermorter\PruebaClases\PruebaClases\Entity.h(11,7): error C2923: 'std::vector': 'Food' no es un argumento de tipo plantilla válido para el parámetro '_Ty'
+C:\Users\User\source\repos\Holtermorter\PruebaClases\PruebaClases\Entity.h(11): message : vea la declaración de 'Food'
+C:\Users\User\source\repos\Holtermorter\PruebaClases\PruebaClases\Entity.h(11,7): error C2976: 'std::vector': no hay suficientes argumentos de plantilla
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\vector(496): message : vea la declaración de 'std::vector'
+C:\Users\User\source\repos\Holtermorter\PruebaClases\PruebaClases\Entity.h(12,14): error C2065: 'Mats': identificador no declarado
+C:\Users\User\source\repos\Holtermorter\PruebaClases\PruebaClases\Entity.h(12,7): error C2923: 'std::vector': 'Mats' no es un argumento de tipo plantilla válido para el parámetro '_Ty'
+C:\Users\User\source\repos\Holtermorter\PruebaClases\PruebaClases\Entity.h(12): message : vea la declaración de 'Mats'
+C:\Users\User\source\repos\Holtermorter\PruebaClases\PruebaClases\Entity.h(12,7): error C2976: 'std::vector': no hay suficientes argumentos de plantilla
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\vector(496): message : vea la declaración de 'std::vector'
+C:\Users\User\source\repos\Holtermorter\PruebaClases\PruebaClases\Entity.h(13,14): error C2065: 'Armor': identificador no declarado
+C:\Users\User\source\repos\Holtermorter\PruebaClases\PruebaClases\Entity.h(13,7): error C2923: 'std::vector': 'Armor' no es un argumento de tipo plantilla válido para el parámetro '_Ty'
+C:\Users\User\source\repos\Holtermorter\PruebaClases\PruebaClases\Entity.h(13): message : vea la declaración de 'Armor'
+C:\Users\User\source\repos\Holtermorter\PruebaClases\PruebaClases\Entity.h(13,7): error C2976: 'std::vector': no hay suficientes argumentos de plantilla
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\vector(496): message : vea la declaración de 'std::vector'
+C:\Users\User\source\repos\Holtermorter\PruebaClases\PruebaClases\Entity.h(14,14): error C2065: 'vector': identificador no declarado
+C:\Users\User\source\repos\Holtermorter\PruebaClases\PruebaClases\Entity.h(14,7): error C2923: 'std::vector': 'vector' no es un argumento de tipo plantilla válido para el parámetro '_Ty'
+C:\Users\User\source\repos\Holtermorter\PruebaClases\PruebaClases\Entity.h(14): message : vea la declaración de 'vector'
+C:\Users\User\source\repos\Holtermorter\PruebaClases\PruebaClases\Entity.h(14,7): error C2976: 'std::vector': no hay suficientes argumentos de plantilla
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\vector(496): message : vea la declaración de 'std::vector'
   main.cpp
-C:\Users\User\source\repos\Holtermorter\PruebaClases\PruebaClases\main.cpp(1,10): fatal  error C1083: No se puede abrir el archivo incluir: 'includeTotal.cpp': No such file or directory
+C:\Users\User\source\repos\Holtermorter\PruebaClases\PruebaClases\Entity.h(9,10): error C3646: 'entityStamina': especificador de invalidación desconocido
+C:\Users\User\source\repos\Holtermorter\PruebaClases\PruebaClases\Entity.h(9,23): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+C:\Users\User\source\repos\Holtermorter\PruebaClases\PruebaClases\Entity.h(10,14): error C2065: 'Swords': identificador no declarado
+C:\Users\User\source\repos\Holtermorter\PruebaClases\PruebaClases\Entity.h(10,7): error C2923: 'std::vector': 'Swords' no es un argumento de tipo plantilla válido para el parámetro '_Ty'
+C:\Users\User\source\repos\Holtermorter\PruebaClases\PruebaClases\Entity.h(10): message : vea la declaración de 'Swords'
+C:\Users\User\source\repos\Holtermorter\PruebaClases\PruebaClases\Entity.h(10,7): error C2976: 'std::vector': no hay suficientes argumentos de plantilla
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\vector(496): message : vea la declaración de 'std::vector'
+C:\Users\User\source\repos\Holtermorter\PruebaClases\PruebaClases\Entity.h(11,14): error C2065: 'Food': identificador no declarado
+C:\Users\User\source\repos\Holtermorter\PruebaClases\PruebaClases\Entity.h(11,7): error C2923: 'std::vector': 'Food' no es un argumento de tipo plantilla válido para el parámetro '_Ty'
+C:\Users\User\source\repos\Holtermorter\PruebaClases\PruebaClases\Entity.h(11): message : vea la declaración de 'Food'
+C:\Users\User\source\repos\Holtermorter\PruebaClases\PruebaClases\Entity.h(11,7): error C2976: 'std::vector': no hay suficientes argumentos de plantilla
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\vector(496): message : vea la declaración de 'std::vector'
+C:\Users\User\source\repos\Holtermorter\PruebaClases\PruebaClases\Entity.h(12,14): error C2065: 'Mats': identificador no declarado
+C:\Users\User\source\repos\Holtermorter\PruebaClases\PruebaClases\Entity.h(12,7): error C2923: 'std::vector': 'Mats' no es un argumento de tipo plantilla válido para el parámetro '_Ty'
+C:\Users\User\source\repos\Holtermorter\PruebaClases\PruebaClases\Entity.h(12): message : vea la declaración de 'Mats'
+C:\Users\User\source\repos\Holtermorter\PruebaClases\PruebaClases\Entity.h(12,7): error C2976: 'std::vector': no hay suficientes argumentos de plantilla
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\vector(496): message : vea la declaración de 'std::vector'
+C:\Users\User\source\repos\Holtermorter\PruebaClases\PruebaClases\Entity.h(13,14): error C2065: 'Armor': identificador no declarado
+C:\Users\User\source\repos\Holtermorter\PruebaClases\PruebaClases\Entity.h(13,7): error C2923: 'std::vector': 'Armor' no es un argumento de tipo plantilla válido para el parámetro '_Ty'
+C:\Users\User\source\repos\Holtermorter\PruebaClases\PruebaClases\Entity.h(13): message : vea la declaración de 'Armor'
+C:\Users\User\source\repos\Holtermorter\PruebaClases\PruebaClases\Entity.h(13,7): error C2976: 'std::vector': no hay suficientes argumentos de plantilla
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\vector(496): message : vea la declaración de 'std::vector'
+C:\Users\User\source\repos\Holtermorter\PruebaClases\PruebaClases\Entity.h(14,14): error C2065: 'vector': identificador no declarado
+C:\Users\User\source\repos\Holtermorter\PruebaClases\PruebaClases\Entity.h(14,7): error C2923: 'std::vector': 'vector' no es un argumento de tipo plantilla válido para el parámetro '_Ty'
+C:\Users\User\source\repos\Holtermorter\PruebaClases\PruebaClases\Entity.h(14): message : vea la declaración de 'vector'
+C:\Users\User\source\repos\Holtermorter\PruebaClases\PruebaClases\Entity.h(14,7): error C2976: 'std::vector': no hay suficientes argumentos de plantilla
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\vector(496): message : vea la declaración de 'std::vector'
   Stamina.cpp
-c1xx : fatal  error C1083: No se puede abrir el archivo origen: 'Stamina.cpp': No such file or directory
+C:\Users\User\source\repos\Holtermorter\PruebaClases\PruebaClases\Entity.h(9,10): error C3646: 'entityStamina': especificador de invalidación desconocido
+C:\Users\User\source\repos\Holtermorter\PruebaClases\PruebaClases\Entity.h(9,23): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+C:\Users\User\source\repos\Holtermorter\PruebaClases\PruebaClases\Entity.h(10,14): error C2065: 'Swords': identificador no declarado
+C:\Users\User\source\repos\Holtermorter\PruebaClases\PruebaClases\Entity.h(10,7): error C2923: 'std::vector': 'Swords' no es un argumento de tipo plantilla válido para el parámetro '_Ty'
+C:\Users\User\source\repos\Holtermorter\PruebaClases\PruebaClases\Entity.h(10): message : vea la declaración de 'Swords'
+C:\Users\User\source\repos\Holtermorter\PruebaClases\PruebaClases\Entity.h(10,7): error C2976: 'std::vector': no hay suficientes argumentos de plantilla
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\vector(496): message : vea la declaración de 'std::vector'
+C:\Users\User\source\repos\Holtermorter\PruebaClases\PruebaClases\Entity.h(11,14): error C2065: 'Food': identificador no declarado
+C:\Users\User\source\repos\Holtermorter\PruebaClases\PruebaClases\Entity.h(11,7): error C2923: 'std::vector': 'Food' no es un argumento de tipo plantilla válido para el parámetro '_Ty'
+C:\Users\User\source\repos\Holtermorter\PruebaClases\PruebaClases\Entity.h(11): message : vea la declaración de 'Food'
+C:\Users\User\source\repos\Holtermorter\PruebaClases\PruebaClases\Entity.h(11,7): error C2976: 'std::vector': no hay suficientes argumentos de plantilla
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\vector(496): message : vea la declaración de 'std::vector'
+C:\Users\User\source\repos\Holtermorter\PruebaClases\PruebaClases\Entity.h(12,14): error C2065: 'Mats': identificador no declarado
+C:\Users\User\source\repos\Holtermorter\PruebaClases\PruebaClases\Entity.h(12,7): error C2923: 'std::vector': 'Mats' no es un argumento de tipo plantilla válido para el parámetro '_Ty'
+C:\Users\User\source\repos\Holtermorter\PruebaClases\PruebaClases\Entity.h(12): message : vea la declaración de 'Mats'
+C:\Users\User\source\repos\Holtermorter\PruebaClases\PruebaClases\Entity.h(12,7): error C2976: 'std::vector': no hay suficientes argumentos de plantilla
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\vector(496): message : vea la declaración de 'std::vector'
+C:\Users\User\source\repos\Holtermorter\PruebaClases\PruebaClases\Entity.h(13,14): error C2065: 'Armor': identificador no declarado
+C:\Users\User\source\repos\Holtermorter\PruebaClases\PruebaClases\Entity.h(13,7): error C2923: 'std::vector': 'Armor' no es un argumento de tipo plantilla válido para el parámetro '_Ty'
+C:\Users\User\source\repos\Holtermorter\PruebaClases\PruebaClases\Entity.h(13): message : vea la declaración de 'Armor'
+C:\Users\User\source\repos\Holtermorter\PruebaClases\PruebaClases\Entity.h(13,7): error C2976: 'std::vector': no hay suficientes argumentos de plantilla
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\vector(496): message : vea la declaración de 'std::vector'
+C:\Users\User\source\repos\Holtermorter\PruebaClases\PruebaClases\Entity.h(14,14): error C2065: 'vector': identificador no declarado
+C:\Users\User\source\repos\Holtermorter\PruebaClases\PruebaClases\Entity.h(14,7): error C2923: 'std::vector': 'vector' no es un argumento de tipo plantilla válido para el parámetro '_Ty'
+C:\Users\User\source\repos\Holtermorter\PruebaClases\PruebaClases\Entity.h(14): message : vea la declaración de 'vector'
+C:\Users\User\source\repos\Holtermorter\PruebaClases\PruebaClases\Entity.h(14,7): error C2976: 'std::vector': no hay suficientes argumentos de plantilla
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\vector(496): message : vea la declaración de 'std::vector'
   Sword.cpp
   Generando código...

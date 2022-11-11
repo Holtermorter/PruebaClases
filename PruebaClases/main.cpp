@@ -1,4 +1,4 @@
-#include "includeTotal.cpp"
+#include "includeall.cpp"
 
 
 using namespace std;
